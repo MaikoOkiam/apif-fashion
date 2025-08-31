@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "string",
+      "title": "Kategorie",
+      "description": "Hauptkategorie wie 'Skirts', 'Dresses', 'Jackets' usw.",
+      "default": "Skirts"
+    }
+  },
+  "required": ["category"]
+}

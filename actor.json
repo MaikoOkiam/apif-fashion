@@ -1,0 +1,9 @@
+{
+  "name": "fashionunited-product-scraper",
+  "version": "0.1",
+  "buildTag": "latest",
+  "environmentVariables": {},
+  "dockerfile": "./Dockerfile",
+  "input": "./input_schema.json",
+  "main": "main.js"
+}
