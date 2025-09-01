@@ -1,4 +1,6 @@
 {
+  "title": "Kategorie-Eingabe",
+  "description": "Wähle die Hauptkategorie, aus der Produkte gescrapt werden sollen (z. B. 'Skirts')",
   "type": "object",
   "properties": {
     "category": {
